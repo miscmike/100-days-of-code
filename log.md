@@ -38,3 +38,11 @@
 **Link(s) to work**
 
 1. https://kickonline.co
+
+### Day 2: January 8, 2020
+
+**Today's Progress**: Never played with Next.js so figured today was the day. Worked through the BASICS section on their site and deployed through now.
+
+**Thoughts**: Took about 90mins and have a better understanding of what it is now.
+
+**Link(s) to work**: https://hello-next.mcra2452.now.sh
