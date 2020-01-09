@@ -46,3 +46,9 @@
 **Thoughts**: Took about 90mins and have a better understanding of what it is now.
 
 **Link(s) to work**: https://hello-next.mcra2452.now.sh
+
+## Day 3: January 9, 2020
+
+**Today's Progress**: Started converting my current html + css portfolio website to Next.js. Spent most getting api to work so I can display list of "work" oor "posts" I've done.
+
+**Thoughts**: Trying to lean in to dynamic rendering and avoid hard coding all content in my codebase. V daunting for me at least.
