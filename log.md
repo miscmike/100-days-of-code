@@ -47,8 +47,32 @@
 
 **Link(s) to work**: https://hello-next.mcra2452.now.sh
 
-## Day 3: January 9, 2020
+## Day 3: Thursday January 9, 2020
 
-**Today's Progress**: Started converting my current html + css portfolio website to Next.js. Spent most getting api to work so I can display list of "work" oor "posts" I've done.
+**Today's Progress**: Started converting my current html + css portfolio website to Next.js. Spent most getting api to work.
 
 **Thoughts**: Trying to lean in to dynamic rendering and avoid hard coding all content in my codebase. V daunting for me at least.
+
+**Link(s) to work**:
+
+## Day 4: Saturday January 11, 2020
+
+**Today's Progress**: Was feeling a bit lost with the Next.js portfolio so worked through the remainder of the freeCodeCamp curriculum so I would be 'up to' the final projects for Responsive Web Development and could work on those.
+
+**Thoughts**: Feel like going through freeCodeCamp activities is cheating for some reason. I think as long as I don't ONLY do this it should be okay. Just don't want to keep falling back to HTML/CSS work when I the JS stuff gets difficult.
+
+## Day 5: Sunday January 12, 2020
+
+**Today's Progress**: Completed a bare-bones tribute site to Seymour Papert for the first Responsive Web Design project.
+
+**Thoughts**: Wasn't very motivated to put much polish on the site. Hopefully at some point I can go back and finish it off.
+
+**Link to work**: https://codepen.io/miscmike/pen/PowegGo
+
+## Day 6: Monday January 13, 2020
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link to work**:
