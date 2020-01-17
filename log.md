@@ -71,8 +71,33 @@
 
 ## Day 6: Monday January 13, 2020
 
-**Today's Progress**:
+**Today's Progress**: Complete the html + css product landing page and form projects on #freeCodeCamp.
 
-**Thoughts**:
+**Thoughts**: Went slightly better than the tribute page.
 
-**Link to work**:
+**Link to work**
+
+1. https://codepen.io/miscmike/pen/eYmKgeJ
+2. https://codepen.io/miscmike/pen/gObKPjp
+
+## Day 7: Tuesday January 14, 2020
+
+**Today's Progress**: Built the technical documentation page and watched some entry-level videos to bug bounty hunting.
+
+**Thoughts**: Went better than the tribute page.
+
+**Link to work**: https://codepen.io/miscmike/pen/XWJBbVO
+
+## Day 8: Wednesday January 15, 2020
+
+**Today's Progress**: Made the base html for the fcc portfolio page, and wrote a component to prototype with in Framer X.
+
+**Thoughts**: Hadn't used Framer X in a while and it was sad to see how much I'd forgotten. Might make an anki deck for some of the syntax going forward.
+
+## Day 9: Friday January 17, 2020
+
+**Today's Progress**: Finished off portfolio page and thus the responsive web dev certification.
+
+**Thoughts**: Looking forward to getting back to some more javascript and react projects.
+
+**Link to work**: https://codepen.io/miscmike/pen/abzjjyv
