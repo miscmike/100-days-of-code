@@ -101,3 +101,15 @@
 **Thoughts**: Looking forward to getting back to some more javascript and react projects.
 
 **Link to work**: https://codepen.io/miscmike/pen/abzjjyv
+
+## Day 10: Saturday January 18, 2020
+
+**Today's Progress**: Not a great amount but still about an hour of work. Layed down some basic stuff for next.js portfolio.
+
+**Thoughts**: Forgot about 'run' in the command line which led to a lot of wasted time, but at least I'm less likely to forget now :)
+
+## Day 11: Sunday January 19, 2020
+
+**Today's Progress**: unstyled lorem ipsum portfolio kind of working now
+
+**Link to Work**: https://nextportfolio.mcra2452.now.sh
